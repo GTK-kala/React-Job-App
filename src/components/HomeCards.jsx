@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import Card from './Card'
 
 
-function HomeCards() {
+const  HomeCards = ()=> {
   return (
     <>
            <section className='py-4'>
